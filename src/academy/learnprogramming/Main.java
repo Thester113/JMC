@@ -14,6 +14,15 @@ public class Main {
         int highScorePosition = calculateHighScorePosition(1500);
         displayHighScorePosition("Tom",highScorePosition );
 
+        highScorePosition = calculateHighScorePosition(900);
+        displayHighScorePosition("Tim",highScorePosition );
+
+        highScorePosition = calculateHighScorePosition(400);
+        displayHighScorePosition("Ashlee",highScorePosition );
+
+        highScorePosition = calculateHighScorePosition(50);
+        displayHighScorePosition("Cassie",highScorePosition );
+
     }
 
 
